@@ -6,7 +6,7 @@ This is a powerful app that allows you to replace the camera with the video you 
 
 # Scenes to be used:
 1. Protect the privacy of the camera and prevent some apps from maliciously taking pictures.  
-2. Live Assistant. Similar to OBS, but may be better than OBS, can be used for Twitch, Youtube, Facebook, etc.  
+2. Live Assistant. Similar to OBS, but may be better than OBS, can be used for Twitch, Youtube, Facebook,imo, Whatsapp,etc.  
 3. Entertainment among friends. How fun it would be to record a hilarious video to prank your friends. 
 
 **Notice:**  
