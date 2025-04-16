@@ -40,7 +40,7 @@ If "isPathReallyExist = 0" means it fast running in a real device.
 andvipgroup@gmail.com
 
 # APK Download
-**Latest version : 3.6.6**  
+**Latest version : 3.6.0**  
 <p align="left">
   <a href='https://opensd.google.com/store/apps/details?id=virtual.camera.app'>
     <img alt='Get it on Google Play' height='80' src='https://github.com/andvipgroup/VCamera/blob/main/gp.png'/>
